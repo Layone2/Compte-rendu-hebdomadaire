@@ -1,5 +1,6 @@
 ---
 layout: post
+<<<<<<< HEAD
 title:  "Compte rendue première Semaine"
 date:   2019-04-08 11:49
 categories: jekyll update
@@ -7,6 +8,13 @@ categories: jekyll update
 ## Lundi le 08 au vendredi 12 avril 2019
 
 ## PREMIERE JOURNÉE
+=======
+title:  "Compte rendue première journée"
+date:   2019-04-08 11:49
+categories: jekyll update
+---
+## Lundi le 08 avril 2019
+>>>>>>> 8b9d2d6c32555a0e7d0a9953ccd271a1a9b50115
 
 *1. Présentation:*
 
@@ -22,6 +30,7 @@ categories: jekyll update
 
  *4. Problème rencontré:*
 
+<<<<<<< HEAD
 *   -- Panne de réseau : le réseau n'était pas stable , j'avais besoin d'aide pour le retablir mais ça n'a pas résolu grand chose parce que il y avait un panne général vis à orange.
 
 *La première journée a  mal commencée à cause de la panne réseau* 
@@ -37,3 +46,11 @@ categories: jekyll update
 
       
      
+=======
+*   -- Panne de réseau : le réseau n'était pas stable , j'avais besoin d'aide pour le retablir mais ça n'a pas résolu grand chose parce que il y avait un panne général vis à orange
+
+      
+     
+
+ *La première journée a  mal commencée à cause de la panne réseau* 
+>>>>>>> 8b9d2d6c32555a0e7d0a9953ccd271a1a9b50115

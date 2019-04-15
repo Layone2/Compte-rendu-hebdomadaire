@@ -6,8 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
+<<<<<<< HEAD
 title: MON COMPT-RENDU HEBDOMADAIRE
 email: your-r***ka.don***o@gmail.com
+=======
+title: The Dude
+email: your-email@domain.com
+>>>>>>> 8b9d2d6c32555a0e7d0a9953ccd271a1a9b50115
 description:  Write an awesome description for your new site here. You can edit this
               line in _config.yml. It will appear in your document head meta (for
               Google search results) and in your feed.xml site description.

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>MON COMPT-RENDU HEBDOMADAIRE</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://localhost:4000/jekyll-wing-template/</link>
@@ -14,6 +15,19 @@
         <description>&lt;h2 id=&quot;lundi-le-08-au-vendredi-12-avril-2019&quot;&gt;Lundi le 08 au vendredi 12 avril 2019&lt;/h2&gt;
 
 &lt;h2 id=&quot;premiere-journée&quot;&gt;PREMIERE JOURNÉE&lt;/h2&gt;
+=======
+    <title>The Dude</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>http://localhost:4000/jekyll-wing-template/</link>
+    <atom:link href="http://localhost:4000/jekyll-wing-template/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 12 Apr 2019 11:19:21 +0300</pubDate>
+    <lastBuildDate>Fri, 12 Apr 2019 11:19:21 +0300</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Compte rendue première journée</title>
+        <description>&lt;h2 id=&quot;lundi-le-08-avril-2019&quot;&gt;Lundi le 08 avril 2019&lt;/h2&gt;
+>>>>>>> 8b9d2d6c32555a0e7d0a9953ccd271a1a9b50115
 
 &lt;p&gt;&lt;em&gt;1. Présentation:&lt;/em&gt;&lt;/p&gt;
 
@@ -36,6 +50,7 @@
 &lt;p&gt;&lt;em&gt;4. Problème rencontré:&lt;/em&gt;&lt;/p&gt;
 
 &lt;ul&gt;
+<<<<<<< HEAD
   &lt;li&gt;– Panne de réseau : le réseau n’était pas stable , j’avais besoin d’aide pour le retablir mais ça n’a pas résolu grand chose parce que il y avait un panne général vis à orange.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -50,6 +65,12 @@
 
 &lt;p&gt;&lt;em&gt;Recherche la différence entre donnée, information et connaissance&lt;/em&gt;&lt;/p&gt;
 
+=======
+  &lt;li&gt;– Panne de réseau : le réseau n’était pas stable , j’avais besoin d’aide pour le retablir mais ça n’a pas résolu grand chose parce que il y avait un panne général vis à orange&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;La première journée a  mal commencée à cause de la panne réseau&lt;/em&gt;&lt;/p&gt;
+>>>>>>> 8b9d2d6c32555a0e7d0a9953ccd271a1a9b50115
 </description>
         <pubDate>Mon, 08 Apr 2019 11:49:00 +0300</pubDate>
         <link>http://localhost:4000/jekyll-wing-template/jekyll/update/2019/04/08/welcome-to-jekyll-Copy.html</link>

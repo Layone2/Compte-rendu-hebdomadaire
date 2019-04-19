@@ -19,6 +19,15 @@ Après avoir **réinstaller Ubuntu**:
 <br/>
 * -- J'ai aussi réinstallé **GLPI**.
 
+<br:>
+
+Comme on doit travailler sur le **GLPI** que les enciens stagiaires ont travaillé il fallait récupéré le dossier GLPI qu'ils ont utlisé.
+<br/>
+
+J'avais du mal pour copier le dossier dans Ubuntu; pour cela j'ai trouvé **WinSCP** comme solution enfin de naviguer entre Ubuntu et **Windows**
+
+<br/> 
+Il fallait installer SSH pour la mise en place de **WinSCP**
 
  
 

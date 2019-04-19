@@ -6,18 +6,18 @@ categories: jekyll update
 ---
 ## du 15 au 19 avril 2019
 
-Suite à l'installation de **GLPI** la semaine dernière j'ai rencontré un problème de mot de passe de Phpmyadmin j'était obliger de réinstaller ubuntu.
+Suite à l'installation de **GLPI** la semaine dernière, j'ai rencontré un problème de mot de passe de **Phpmyadmin** et j'étais obligé de *réinstaller ubuntu*.
 
 <br/>
-Après avoir réinstaller ubuntu;
-jai réinstallé Mysql
-Et réinstaller Apache
-Et aussi réinstaller phpmyadmin
-j'ai aussi réinstallé **GLPI**
-
+Après avoir **réinstaller Ubuntu**:
 <br/>
-
+* -- J'ai réinstallé **Mysql**;
 <br/>
+* -- Puis réinstaller **Apache**;
+<br/>
+* -- Et aussi réinstaller **phpmyadmin**;
+<br/>
+* -- J'ai aussi réinstallé **GLPI**.
 
 
  

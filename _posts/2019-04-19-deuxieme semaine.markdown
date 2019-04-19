@@ -19,7 +19,7 @@ Après avoir **réinstaller Ubuntu**:
 <br/>
 * -- J'ai aussi réinstallé **GLPI**.
 
-<br:>
+<br/>
 
 Comme on doit travailler sur le **GLPI** que les enciens stagiaires ont travaillé il fallait récupéré le dossier GLPI qu'ils ont utlisé.
 <br/>

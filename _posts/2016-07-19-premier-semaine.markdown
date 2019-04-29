@@ -33,7 +33,6 @@ categories: jekyll update
 *Recherche la différence entre donnée, information et connaissance*
 
      
-*   -- Panne de réseau : le réseau n'était pas stable , j'avais besoin d'aide pour le retablir mais ça n'a pas résolu grand chose parce que il y avait un panne général vis à orange
 
       
      

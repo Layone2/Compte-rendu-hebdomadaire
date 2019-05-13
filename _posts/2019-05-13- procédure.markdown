@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Procedure"
+date:   2019-05-13 11:49
+categories: jekyll update
+---
+## Procédure pour installer une base de données et la manipuler
+
+
+<br/>
+ * -- Installer VM VirtualBox
+ * -- Télécharger le disque virtuel d'Ubuntu
+ * -- Installer Ubuntu
+ * -- Installer Apache et MySQL
+ * -- Installer Phpmyadmin ( et ses modules)
+ * -- Créer le mot de passe pour SQl 
+ * -- Créer un utilisateur et un mot de passe pour phpmyadmin ( créer l'utilisateur "root" pour permettre d'utliser correctement phpmyadmin)
+ * -- Installer open ssh pour permettre de récuperer les fichiers dont on a besoin 
+ * -- Et WINSCP par la même occasion
+ * -- Récuperer les fichiers d'installation GLPI
+ * -- Copier les ficihers dans /var/www/html
+ * -- Installer GLPI à partir de version fournie
+ * -- Installer les modules php manquant pour permettre au bon fonctionnement de GLPI 
+ * -- Configurer apache pour permettre au GLPI de fonctionner correctement
+ * -- Configurer GLPI suivant les étapes respectives 
+ * -- Installer GLPI en créantune base de données
+ * -- Accéder à la base de données à partir de phpmyadmin 
+ * -- Configurer phpmyadmin pour permettre d'importer la base de données
+ * -- Importer la base de données avec celle fournie
+ * -- Configurer GLPI pour prendre en compte la base de données.
+ 
+
+ 
+ 
+ 
+ 
+
+      
+     
+

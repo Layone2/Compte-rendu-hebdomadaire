@@ -9,7 +9,7 @@ categories: jekyll update
 
 <br/>
 
-Après avoir mettre en place les outils qui nous avons besoins précedant, maintenant nous allons en fournir pour continuer et finaliser notre projet.
+Après avoir mettre en place les outils que nous avons besoins la drenière fois, maintenant nous allons en fournir pour continuer et finaliser notre projet.
 
 <br/> 
 Pour cela les étapes étaient les suivantes:
